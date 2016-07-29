@@ -7,14 +7,14 @@
 * [[pros and cons of JavaScript]]
 * [[vs. other languages]]
 * [[event loop]]
-* [scope](scope in JavaScript) / [closures](closures in JavaScript)
+* [[scope|scope in JavaScript]] / [[closures|closures in JavaScript]]
 * [[loops]]
 * [[hoisting]]
 * [[instantiation patterns]]
 * [[truthy and falsy]]
 * [[type coercion]]
-* [objects](objects in JavaScript)
-	* [prototypes](prototypes in JavaScript)
+* [[objects|objects in JavaScript]]
+	* [[prototypes|prototypes in JavaScript]]
 * [[this]]
 * [[bind]] / [[currying]]
 * [[Best practices]]
@@ -30,7 +30,7 @@
     * [[promises]]
     * [[generators]]
     * [[iterators]]
-    * [for-of vs. for-in loop](loops)
+    * [[for-of vs. for-in loop|loops]]
     * [[classes]]
     * [[destructuring]]
     * [[string interpolation]]
@@ -70,8 +70,8 @@
     * [[Oracle]]
     * [[SQLite]]
 
-* [what is a "relational" database](what is a relational database)
-* [what's a B-Tree, and why does it matter for a database?](b-trees in databases)
+* [[what is a "relational" database|what is a relational database]]
+* [[what's a B-Tree, and why does it matter for a database?|b-trees in databases]]
 * [[Primary key vs foreign key]]
 * [[Schema design]]
     * [[normalization]]
@@ -92,8 +92,8 @@
 * Redis
 	* [[Serialized / Queued / Atomic transactions]]
 	* [[why is Redis useful, why it might suck]]
-	* [the most-useful Redis data types](Redis data types)
-	* [the most-useful Redis operations](Redis operations)
+	* [[the most-useful Redis data types|Redis data types]]
+	* [[the most-useful Redis operations|Redis operations]]
 * CouchDB
 	* [[MapReduce]]
 * [[LevelDB]]
@@ -104,7 +104,7 @@
 
 ### Browsers
 * [[What is the DOM]]?
-* [How would you design the DOM, if you had to make it from scratch?](How would you design the DOM?)
+* [[How would you design the DOM, if you had to make it from scratch?|How would you design the DOM?]]
 * [[Outline how browsers keep your data secure]]
 * [[What is a virtual DOM?]]
 * [[What happens when you load a page?]]
@@ -125,8 +125,8 @@
 * [[Client-side vs. server-side rendering]]
 * [[templating]]
 	* [[popular JS template engines]]
-	* [interpolation](interpolation in templates)
-	* [control flow](control flow in templates)
+	* [[interpolation|interpolation in templates]]
+	* [[control flow|control flow in templates]]
 * [[how is HTML rendered by the browser?]]
 * [[what is "reflow"?]]
 * [[accessibility]]
@@ -167,13 +167,13 @@
 * jQuery
 * D3
 * React
-	* [what is React?](what is React)
+	* [[what is React?|what is React]]
 	* [[compare React vs Angular]]
 	* [[Flux]] / [[Redux]]
 	* [[React Native]]
 	* [[JSX]]
 * Angular
-	* [What Is Angular?](What Is Angular)
+	* [[What Is Angular?|What Is Angular]]
 	* [[Ionic]]
 	* [[compare React vs Angular]]
 	* [[Angular 1.x vs Angular 2]]
@@ -243,7 +243,7 @@
 	* [[callback hell]]
 	* [[multi-threading]]
 	* [[race condition]]
-* [Pub/sub](Publish subscribe)
+* [[Pub/sub|Publish subscribe]]
 * [[Middleware]]
 * [[ReST]]
 	* [[HTTP "verbs"]]
@@ -257,7 +257,7 @@
 	* [[statelessness]]
 		* "[[shared-nothing]]" architecture
 * [[abstraction]]
-* [contracts (interfaces)](interfaces) between components
+* [[contracts (interfaces)|interfaces]] between components
 	* [[modules]]
 	* [[classes]]
 	* [[duck typing]]
